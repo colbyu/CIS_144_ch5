@@ -1,0 +1,4 @@
+
+// Fig. 4.9: GradeBook.java
+// GradeBook class that solves the class-average problem using
+// sentinel-controlled repetition.
